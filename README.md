@@ -151,3 +151,5 @@ valortotal.value = n18
 }
 
 </script>
+
+COMENTARIO FRANCISCO
